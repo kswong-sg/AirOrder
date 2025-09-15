@@ -1,0 +1,6 @@
+/backend/node_modules
+/frontend/.next/cache
+/frontend/.next
+/frontend/node_modules/.bin
+/frontend/node_modules
+/backend/logs
